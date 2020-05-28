@@ -5,6 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Disclaimer: Image will adjust when you use your phone in normal direction but if you rotate it moves away from pixels..You just have to change minor code there..But in normal position it works perfectly..My intension was to teach you cloud storing function rest you can do yourself
 
 A few resources to get you started if this is your first Flutter project:
 
